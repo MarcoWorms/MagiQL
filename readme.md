@@ -1,5 +1,7 @@
 # MagiQL
 
+![image](https://github.com/MarcoWorms/MagiQL/assets/7863230/0c406e4b-079c-4cdf-b11e-036504b5a3af)
+
 Telegram bot that can send requests made with natural language to a GraphQL endpoint and process responses.
 
 Made with https://github.com/MarcoWorms/RefactorGPT

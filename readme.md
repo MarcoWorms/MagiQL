@@ -20,8 +20,6 @@ You need to have [Docker](https://docs.docker.com/engine/install/) installed on 
 
 ## Examples
 
-![image](https://github.com/MarcoWorms/MagiQL/assets/7863230/99b3228e-d775-4633-b579-78499e3eca8c)
-
-![image](https://github.com/MarcoWorms/MagiQL/assets/7863230/3ed88530-fb04-4ecf-a1bf-9f33a902516d)
-
 ![image](https://github.com/MarcoWorms/MagiQL/assets/7863230/dbbeadc9-5b86-4746-b23e-7ebb3707521a)
+
+![image](https://github.com/MarcoWorms/MagiQL/assets/7863230/99b3228e-d775-4633-b579-78499e3eca8c)

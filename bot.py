@@ -76,7 +76,7 @@ def query_info(update: Update, context: CallbackContext) -> None:
             temperature=0,
             messages=[
                 {"role": "user", "content": str(schema)},
-                {"role": "user", "content": "Please provide documentation for this GraphQL schema. It will be sent as a telgram message to the user, feel fre to use markdown and make it succint.\n\n"},
+                {"role": "user", "content": "Please provide documentation for this GraphQL schema. It will be sent as a telegram message to the user, feel free to use markdown and make it succinct. Only reply with the docs and nothing else like extra comments.\n\n"},
             ]
         )
         doc = gpt_response["choices"][0]["message"]["content"]

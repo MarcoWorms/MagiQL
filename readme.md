@@ -2,6 +2,8 @@
 
 Telegram bot that can send requests made with natural language to a GraphQL endpoint and process responses.
 
+Made with https://github.com/MarcoWorms/RefactorGPT
+
 [![](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ![image](https://github.com/MarcoWorms/MagiQL/assets/7863230/3ed88530-fb04-4ecf-a1bf-9f33a902516d)
